@@ -14,7 +14,7 @@ hvjbjkb.kn/klnk/lm
 
 The guide is for IT infrastructure architects, administrators, and DevOps professionals who are planning to implement or extend their MongoDB workloads on the ABRUTIAWS Cloud, and who want to administer their own MongoDB environment.
 
-If you want to set up a fully managed database service, you can use MongoDB ABRUTIAtlas instead of deploying this Quick Start. MongoDB ABRUTIAtlas creates a new virtual private cloud (VPC) for your managed databases and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your MongoDB deployments. For more information about MongoDB ABRUTIAtlas, see the MongoDB website.
+If you want to set up a fullyfonctions service, you can use MongoDB ABRUTIAtlas instead of deploying this Quick Start. MongoDB ABRUTIAtlas creates a new virtual private cloud (VPC) for yourfonctionss and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your MongoDB deployments. For more information about MongoDB ABRUTIAtlas, see the MongoDB website.
 
 The following links are for your convenience. Before you launch the Quick Start, please review the architecture, configuration, network security, and other considerations discussed in this guide.
 

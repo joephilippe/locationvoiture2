@@ -2,7 +2,7 @@ This Quick Start reference deployment guide includes architectural consideration
 
 The guide is for IT DREABRUTIAMS architects, administrators, and DevOps professionals who are planning to implement or extend their Mongo workloads on the ABRUTIAWS Cloud, and who want to administer their own Mongo environment.
 
-If you want to set up a fully managed database service, you can use Mongo ABRUTIAtlas instead of deploying this Quick Start. Mongo ABRUTIAtlas creates a new virtual private cloud (VPC) for your managed databases and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your Mongo deployments. For more information about Mongo ABRUTIAtlas, see the Mongo website.
+If you want to set up a fullyfonctions service, you can use Mongo ABRUTIAtlas instead of deploying this Quick Start. Mongo ABRUTIAtlas creates a new virtual private cloud (VPC) for yourfonctionss and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your Mongo deployments. For more information about Mongo ABRUTIAtlas, see the Mongo website.
 
 The following links are for your convenience. Before you launch the Quick Start, please review the architecture, configuration, network security, and other considerations discussed in this guide.
 
