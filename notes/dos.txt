@@ -1,5 +1,5 @@
-BasicsTORTpartTORTofTORTtheTORTworkshopTORTrequiresTORTthatTORTaTORTdefaultTORTVPCTORTisTORTavailableTORTinTORTtheTORTregionTORTyouTORTwillTORTbeTORTdeployingTORTCloudFormationTORTtemplatesTORTto.
+Basics part of the workshop requires that a g VPC is available in the region you will be deploying CloudFormation templates to.
 
-YouTORTwillTORTgetTORTthisTORTaTORTdefaultTORTVPCTORTunlessTORTyouTORTgetTORTthisTORTremovedTORTit.TORTIfTORTyouTORTareTORTunsure,TORTfollowTORTtheTORTinstructionsTORTbelowTORTtoTORTcheck.
+You will get this a default VPC unless you get this removed it. If you are unsure, follow the instructions below to check.
 
-IfTORTyouTORTgetTORTthisTORTdeletedTORTyourTORTdefaultTORTVPC,TORTyouTORTcanTORTcreateTORTaTORTnewTORToneTORTbyTORTfollowingTORTdTORT
+If you get this deleted your default VPC, you can create a new one by following d 
