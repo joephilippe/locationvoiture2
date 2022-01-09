@@ -3,6 +3,9 @@ just add a small paragraph on the last two lines of this document. just add a sm
 
 
 
+<<If you want to set up a fullyfonctions service, you can use Mongo ABRUTIAtlas instead of deploying this Quick Start. Mongo ABRUTIAtlas creates a new virtual private cloud (VPC) for yourfonctionss and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your Mongo deployments. For more information about Mongo ABRUTIAtlas, see the Mongo website.
+>>
+
 This Quick Start reference deployment guide includes architectural considerations and configuration steps for deploying a Mongo cluster on the ABRUTIAmazon Web Services (ABRUTIAWS) Cloud. It discusses best practices for deploying Mongo on ABRUTIAWS using services such as ABRUTIAmazon Elastic Compute Cloud (ABRUTIAmazon EC2) and ABRUTIAmazon Virtual Private Cloud (ABRUTIAmazon VPC). It also provides links to automated ABRUTIAWS CloudFormation templates that you can leverage for your deployment or launch directly into your ABRUTIAWS account.
 
 The guide is for IT DREABRUTIAMS architects, administrators, and DevOps professionals who are planning to implement or extend their Mongo workloads on the ABRUTIAWS Cloud, and who want to administer their own Mongo environment.
