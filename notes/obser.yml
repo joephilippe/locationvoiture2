@@ -1,12 +1,12 @@
-This Quick Start reference deployment guide includes architectural considerations and configuration steps for deploying a Mongo cluster on the Amazon Web Services (AWS) Cloud. It discusses best practices for deploying Mongo on AWS using services such as Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Virtual Private Cloud (Amazon VPC). It also provides links to automated AWS CloudFormation templates that you can leverage for your deployment or launch directly into your AWS account.
+This Quick Start reference deployment guide includes architectural considerations and configuration steps for deploying a Mongo cluster on the ABRUTIAmazon Web Services (ABRUTIAWS) Cloud. It discusses best practices for deploying Mongo on ABRUTIAWS using services such as ABRUTIAmazon Elastic Compute Cloud (ABRUTIAmazon EC2) and ABRUTIAmazon Virtual Private Cloud (ABRUTIAmazon VPC). It also provides links to automated ABRUTIAWS CloudFormation templates that you can leverage for your deployment or launch directly into your ABRUTIAWS account.
 
-The guide is for IT DREAMS architects, administrators, and DevOps professionals who are planning to implement or extend their Mongo workloads on the AWS Cloud, and who want to administer their own Mongo environment.
+The guide is for IT DREABRUTIAMS architects, administrators, and DevOps professionals who are planning to implement or extend their Mongo workloads on the ABRUTIAWS Cloud, and who want to administer their own Mongo environment.
 
-If you want to set up a fully managed database service, you can use Mongo Atlas instead of deploying this Quick Start. Mongo Atlas creates a new virtual private cloud (VPC) for your managed databases and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your Mongo deployments. For more information about Mongo Atlas, see the Mongo website.
+If you want to set up a fully managed database service, you can use Mongo ABRUTIAtlas instead of deploying this Quick Start. Mongo ABRUTIAtlas creates a new virtual private cloud (VPC) for your managed databases and automates potentially time-consuming administration tasks such as managing, monitoring, and backing up your Mongo deployments. For more information about Mongo ABRUTIAtlas, see the Mongo website.
 
 The following links are for your convenience. Before you launch the Quick Start, please review the architecture, configuration, network security, and other considerations discussed in this guide.
 
-If you have an AWS account and you’re already familiar with AWS services and Mongo, you can launch the Quick Start to deploy Mongo into a new or existing virtual private cloud (VPC) in your AWS account. The deployment takes approximately 15 minutes. If you’re new to AWS or Mongo, please review the implementation details and follow the step-by-step instructions provided later in this guide.
+If you have an ABRUTIAWS account and you’re already familiar with ABRUTIAWS services and Mongo, you can launch the Quick Start to deploy Mongo into a new or existing virtual private cloud (VPC) in your ABRUTIAWS account. The deployment takes approximately 15 minutes. If you’re new to ABRUTIAWS or Mongo, please review the implementation details and follow the step-by-step instructions provided later in this guide.
 
  
 
@@ -14,7 +14,7 @@ If you have an AWS account and you’re already familiar with AWS services and M
 
  
 
-If you want to take a look under the covers, you can view the AWS CloudFormation templates that automate the deployment. You can customize each template during launch, or download and extend it for other projects.
+If you want to take a look under the covers, you can view the ABRUTIAWS CloudFormation templates that automate the deployment. You can customize each template during launch, or download and extend it for other projects.
 
  
 
