@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//ZOHO Corp ,Inc//Zoho showtime//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:AWS Data Flywheel Solutions Lab - Miami
+DTSTAMP:20211205T045145Z
+DTSTART:20211206T130000Z
+DTEND:20211206T153000Z
+UID:3222262000002035047
+DESCRIPTION:To join this session, click https://bellefleurtech.zohoshowtime.com/sessions/aws-data-flywheel-solutions-lab---miami--7800440050\n\nCome with an idea, leave with a solution! Winning In Paradise! Join Belle Fleur and AWS for Data Flywheel Solutions Lab Virtually\n\nData Flywheel Solutions Lab Overview\nDuring the lab, AWS Data Flywheel Solutions Lab Architects, Belle Fleur and AWS service experts support the customer by providing prescriptive architectural guidance, sharing best practices, and removing technical roadblocks. Customers leave the engagement with a prototype that is custom fit to their needs, a path to production, deeper knowledge of AWS Serverless Web/App, Databases, Analytics, and Machine Learning services, and new relationships with AWS service experts.\n\nThrough presentations, and hands-on labs you will be guided through a build journey focused on machine learning fundamentals, data science process, machine learning algorithms using AWS Machine Learning services best practices to build a Well-Architected Machine Learning Architecture.\n
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Your ShowtimeEvent "AWS Data Flywheel Solutions Lab - Miami" begins in 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
